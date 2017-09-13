@@ -1,0 +1,4 @@
+GET - GOOGLE.COM/GERNICA : https://www.google.co.kr/search?q=%EA%B2%8C%EB%A5%B4%EB%8B%88%EC%B9%B4&rlz=1C1CHBD_koKR758KR758&oq=%EA%B2%8C%EB%A5%B4%EB%8B%88%EC%B9%B4&aqs=chrome..69i57j0l5.3241j0j1&sourceid=chrome&ie=UTF-8
+
+
+cheerio (node.js - crolling)
